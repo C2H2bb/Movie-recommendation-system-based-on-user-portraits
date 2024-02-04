@@ -3,6 +3,9 @@
 ## Introduction
 This project implements a movie recommendation system using the Python Django framework. It combines Collaborative Filtering and User Profiling Clustering algorithms to offer features like movie rating recommendations, user similarity recommendations, a backend for user data management, and a frontend interface for movie recommendations and genre-based search.
 
+## Team members
+-Yichen Jiao 1216333 yjiao4@lakeheadu.ca
+
 ## Database Structure
 The system utilizes several key database tables:
 - `movie`: Contains movie information.
