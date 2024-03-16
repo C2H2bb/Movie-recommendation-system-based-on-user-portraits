@@ -6,6 +6,7 @@ This project implements a movie recommendation system using the Python Django fr
 ## Team members
 - Yichen Jiao 1216333 yjiao4@lakeheadu.ca
 
+
 ## Database Structure
 The system utilizes several key database tables:
 - `movie`: Contains movie information.
